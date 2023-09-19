@@ -1,0 +1,9 @@
+name: analisis_de_datos
+channels:
+  - defaults
+dependencies:
+  - notebook
+  - python=3.11
+  - pandas
+  - numpy
+prefix: /home/leo/miniconda3/envs/analisis_de_datos
